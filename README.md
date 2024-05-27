@@ -12,9 +12,9 @@ Common features
    + ARDUINO® Uno V3 expansion connector
    + ST morpho extension pin headers for full access to all STM32 I/Os
 
-+Flexible power-supply options: ST-LINK USB VBUS or external sources
-+Comprehensive free software libraries and examples available with the STM32Cube MCU Package
-+Support of a wide choice of Integrated Development Environments (IDEs) including IAR Embedded Workbench®, MDK-ARM, and STM32CubeIDE
++ Flexible power-supply options: ST-LINK USB VBUS or external sources
++ Comprehensive free software libraries and examples available with the STM32Cube MCU Package
++ Support of a wide choice of Integrated Development Environments (IDEs) including IAR Embedded Workbench®, MDK-ARM, and STM32CubeIDE
 
 Features specific to some of the boards
  + External or internal SMPS to generate Vcore logic supply:NUCLEO-L412RB-P, NUCLEO-L433RC-P, NUCLEO- 
