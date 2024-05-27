@@ -3,10 +3,10 @@ My works with the F410RB microprocessor board
 
 # All features
 Common features
- *STM32 microcontroller in an LQFP64 or LQFP48 package
- *1 user LED shared with ARDUINO®
- *1 user and 1 reset push-buttons
- *32.768 kHz crystal oscillator
+ -STM32 microcontroller in an LQFP64 or LQFP48 package
+ -1 user LED shared with ARDUINO®
+ -1 user and 1 reset push-buttons
+ -32.768 kHz crystal oscillator
 
  Board connectors:
    + ARDUINO® Uno V3 expansion connector
